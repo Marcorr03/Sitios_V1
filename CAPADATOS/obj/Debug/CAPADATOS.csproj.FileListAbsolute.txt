@@ -1,0 +1,6 @@
+D:\Sitios_Web_1\CAPADATOS\bin\Debug\CAPADATOS.dll
+D:\Sitios_Web_1\CAPADATOS\bin\Debug\CAPADATOS.pdb
+D:\Sitios_Web_1\CAPADATOS\obj\Debug\CAPADATOS.csproj.AssemblyReference.cache
+D:\Sitios_Web_1\CAPADATOS\obj\Debug\CAPADATOS.csproj.CoreCompileInputs.cache
+D:\Sitios_Web_1\CAPADATOS\obj\Debug\CAPADATOS.dll
+D:\Sitios_Web_1\CAPADATOS\obj\Debug\CAPADATOS.pdb

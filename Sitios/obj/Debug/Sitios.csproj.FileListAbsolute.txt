@@ -1,0 +1,120 @@
+C:\Users\Docente\Documents\Examen Final\Sitios_Web_1\Sitios\bin\Sitios.dll.config
+C:\Users\Docente\Documents\Examen Final\Sitios_Web_1\Sitios\bin\Sitios.dll
+C:\Users\Docente\Documents\Examen Final\Sitios_Web_1\Sitios\bin\Sitios.pdb
+C:\Users\Docente\Documents\Examen Final\Sitios_Web_1\Sitios\bin\roslyn\csc.exe
+C:\Users\Docente\Documents\Examen Final\Sitios_Web_1\Sitios\bin\roslyn\csc.exe.config
+C:\Users\Docente\Documents\Examen Final\Sitios_Web_1\Sitios\bin\roslyn\csc.rsp
+C:\Users\Docente\Documents\Examen Final\Sitios_Web_1\Sitios\bin\roslyn\csi.exe
+C:\Users\Docente\Documents\Examen Final\Sitios_Web_1\Sitios\bin\roslyn\csi.exe.config
+C:\Users\Docente\Documents\Examen Final\Sitios_Web_1\Sitios\bin\roslyn\csi.rsp
+C:\Users\Docente\Documents\Examen Final\Sitios_Web_1\Sitios\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Docente\Documents\Examen Final\Sitios_Web_1\Sitios\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Docente\Documents\Examen Final\Sitios_Web_1\Sitios\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Docente\Documents\Examen Final\Sitios_Web_1\Sitios\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Docente\Documents\Examen Final\Sitios_Web_1\Sitios\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Docente\Documents\Examen Final\Sitios_Web_1\Sitios\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Docente\Documents\Examen Final\Sitios_Web_1\Sitios\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Docente\Documents\Examen Final\Sitios_Web_1\Sitios\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Docente\Documents\Examen Final\Sitios_Web_1\Sitios\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Docente\Documents\Examen Final\Sitios_Web_1\Sitios\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Docente\Documents\Examen Final\Sitios_Web_1\Sitios\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Docente\Documents\Examen Final\Sitios_Web_1\Sitios\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Docente\Documents\Examen Final\Sitios_Web_1\Sitios\bin\roslyn\System.AppContext.dll
+C:\Users\Docente\Documents\Examen Final\Sitios_Web_1\Sitios\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Docente\Documents\Examen Final\Sitios_Web_1\Sitios\bin\roslyn\System.Console.dll
+C:\Users\Docente\Documents\Examen Final\Sitios_Web_1\Sitios\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Docente\Documents\Examen Final\Sitios_Web_1\Sitios\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Docente\Documents\Examen Final\Sitios_Web_1\Sitios\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Docente\Documents\Examen Final\Sitios_Web_1\Sitios\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Docente\Documents\Examen Final\Sitios_Web_1\Sitios\bin\roslyn\System.IO.Compression.dll
+C:\Users\Docente\Documents\Examen Final\Sitios_Web_1\Sitios\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Docente\Documents\Examen Final\Sitios_Web_1\Sitios\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Docente\Documents\Examen Final\Sitios_Web_1\Sitios\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Docente\Documents\Examen Final\Sitios_Web_1\Sitios\bin\roslyn\System.Net.Http.dll
+C:\Users\Docente\Documents\Examen Final\Sitios_Web_1\Sitios\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Docente\Documents\Examen Final\Sitios_Web_1\Sitios\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Docente\Documents\Examen Final\Sitios_Web_1\Sitios\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Docente\Documents\Examen Final\Sitios_Web_1\Sitios\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Docente\Documents\Examen Final\Sitios_Web_1\Sitios\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Docente\Documents\Examen Final\Sitios_Web_1\Sitios\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Docente\Documents\Examen Final\Sitios_Web_1\Sitios\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Docente\Documents\Examen Final\Sitios_Web_1\Sitios\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Docente\Documents\Examen Final\Sitios_Web_1\Sitios\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Docente\Documents\Examen Final\Sitios_Web_1\Sitios\bin\roslyn\System.ValueTuple.dll
+C:\Users\Docente\Documents\Examen Final\Sitios_Web_1\Sitios\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Docente\Documents\Examen Final\Sitios_Web_1\Sitios\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Docente\Documents\Examen Final\Sitios_Web_1\Sitios\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Docente\Documents\Examen Final\Sitios_Web_1\Sitios\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Docente\Documents\Examen Final\Sitios_Web_1\Sitios\bin\roslyn\vbc.exe
+C:\Users\Docente\Documents\Examen Final\Sitios_Web_1\Sitios\bin\roslyn\vbc.exe.config
+C:\Users\Docente\Documents\Examen Final\Sitios_Web_1\Sitios\bin\roslyn\vbc.rsp
+C:\Users\Docente\Documents\Examen Final\Sitios_Web_1\Sitios\bin\roslyn\VBCSCompiler.exe
+C:\Users\Docente\Documents\Examen Final\Sitios_Web_1\Sitios\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Docente\Documents\Examen Final\Sitios_Web_1\Sitios\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Docente\Documents\Examen Final\Sitios_Web_1\Sitios\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Docente\Documents\Examen Final\Sitios_Web_1\Sitios\obj\Debug\Sitios.csproj.AssemblyReference.cache
+C:\Users\Docente\Documents\Examen Final\Sitios_Web_1\Sitios\obj\Debug\Sitios.csproj.CoreCompileInputs.cache
+C:\Users\Docente\Documents\Examen Final\Sitios_Web_1\Sitios\obj\Debug\Sitios.csproj.CopyComplete
+C:\Users\Docente\Documents\Examen Final\Sitios_Web_1\Sitios\obj\Debug\Sitios.dll
+C:\Users\Docente\Documents\Examen Final\Sitios_Web_1\Sitios\obj\Debug\Sitios.pdb
+D:\Sitios_Web_1\Sitios\bin\Sitios.dll.config
+D:\Sitios_Web_1\Sitios\bin\Sitios.dll
+D:\Sitios_Web_1\Sitios\bin\Sitios.pdb
+D:\Sitios_Web_1\Sitios\bin\roslyn\csc.exe
+D:\Sitios_Web_1\Sitios\bin\roslyn\csc.exe.config
+D:\Sitios_Web_1\Sitios\bin\roslyn\csc.rsp
+D:\Sitios_Web_1\Sitios\bin\roslyn\csi.exe
+D:\Sitios_Web_1\Sitios\bin\roslyn\csi.exe.config
+D:\Sitios_Web_1\Sitios\bin\roslyn\csi.rsp
+D:\Sitios_Web_1\Sitios\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Sitios_Web_1\Sitios\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Sitios_Web_1\Sitios\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Sitios_Web_1\Sitios\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Sitios_Web_1\Sitios\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Sitios_Web_1\Sitios\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Sitios_Web_1\Sitios\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Sitios_Web_1\Sitios\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Sitios_Web_1\Sitios\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Sitios_Web_1\Sitios\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Sitios_Web_1\Sitios\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Sitios_Web_1\Sitios\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Sitios_Web_1\Sitios\bin\roslyn\System.AppContext.dll
+D:\Sitios_Web_1\Sitios\bin\roslyn\System.Collections.Immutable.dll
+D:\Sitios_Web_1\Sitios\bin\roslyn\System.Console.dll
+D:\Sitios_Web_1\Sitios\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Sitios_Web_1\Sitios\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Sitios_Web_1\Sitios\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Sitios_Web_1\Sitios\bin\roslyn\System.Globalization.Calendars.dll
+D:\Sitios_Web_1\Sitios\bin\roslyn\System.IO.Compression.dll
+D:\Sitios_Web_1\Sitios\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Sitios_Web_1\Sitios\bin\roslyn\System.IO.FileSystem.dll
+D:\Sitios_Web_1\Sitios\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Sitios_Web_1\Sitios\bin\roslyn\System.Net.Http.dll
+D:\Sitios_Web_1\Sitios\bin\roslyn\System.Net.Sockets.dll
+D:\Sitios_Web_1\Sitios\bin\roslyn\System.Reflection.Metadata.dll
+D:\Sitios_Web_1\Sitios\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Sitios_Web_1\Sitios\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Sitios_Web_1\Sitios\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Sitios_Web_1\Sitios\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Sitios_Web_1\Sitios\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Sitios_Web_1\Sitios\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Sitios_Web_1\Sitios\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Sitios_Web_1\Sitios\bin\roslyn\System.ValueTuple.dll
+D:\Sitios_Web_1\Sitios\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Sitios_Web_1\Sitios\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Sitios_Web_1\Sitios\bin\roslyn\System.Xml.XPath.dll
+D:\Sitios_Web_1\Sitios\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Sitios_Web_1\Sitios\bin\roslyn\vbc.exe
+D:\Sitios_Web_1\Sitios\bin\roslyn\vbc.exe.config
+D:\Sitios_Web_1\Sitios\bin\roslyn\vbc.rsp
+D:\Sitios_Web_1\Sitios\bin\roslyn\VBCSCompiler.exe
+D:\Sitios_Web_1\Sitios\bin\roslyn\VBCSCompiler.exe.config
+D:\Sitios_Web_1\Sitios\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Sitios_Web_1\Sitios\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Sitios_Web_1\Sitios\obj\Debug\Sitios.csproj.AssemblyReference.cache
+D:\Sitios_Web_1\Sitios\obj\Debug\Sitios.csproj.CoreCompileInputs.cache
+D:\Sitios_Web_1\Sitios\obj\Debug\Sitios.dll
+D:\Sitios_Web_1\Sitios\obj\Debug\Sitios.pdb
+D:\Sitios_Web_1\Sitios\obj\Debug\Sitios.csproj.CopyComplete
+D:\Sitios_Web_1\Sitios\bin\CAPADATOS.dll
+D:\Sitios_Web_1\Sitios\bin\CAPADATOS.pdb
